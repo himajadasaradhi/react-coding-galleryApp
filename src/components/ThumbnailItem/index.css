@@ -1,0 +1,17 @@
+/* Write your code here. */
+.inactive {
+  opacity: 0.5;
+  height: 30px;
+  width: 30px;
+}
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.active {
+  opacity: 1;
+  height: 30px;
+  width: 30px;
+}
